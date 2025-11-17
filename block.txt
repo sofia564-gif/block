@@ -1,13 +1,3 @@
-# Title: SofiaJeanelle/hosts
-# Description: Custom blocklist created by Sofia Jeanelle
-# Date: 17 November 2025 (UTC)
-# Number of unique domains: 
-#
-# ===============================================================
-127.0.0.1 localhost
-255.255.255.255 broadcasthost
-::1 localhost
-
 # Custom blocked domains below
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
